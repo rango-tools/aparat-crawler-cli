@@ -1,6 +1,6 @@
 # Aparat Crawler CLI
 
-🚨 This Repository Is JUST Developed For Scientific Porpose 🚨
+🚨 This Repository Is JUST Developed For Scientific Porpose 🚨 <br/>
 This is Simple CLI To Get Video from [aparat](https://www.aparat.com/)
 
 ## Prerequisites 📦
